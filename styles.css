@@ -1,0 +1,21 @@
+.div{
+    font-size: large;
+    font-weight: 100px;
+    color: aqua;
+    background-color: azure;
+    font-style: italic;
+    float: auto;
+    text-align: center;
+}
+
+.section{
+    font-size: large;
+    font-weight: 100;
+    font-style: italic;
+    display: flex;
+    text-align: center;
+    float: inline-start;
+    color: red;
+
+    
+}
